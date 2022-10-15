@@ -1,0 +1,801 @@
+,sentence,sentiment
+0,I really enjoyed the book.,positive
+1,I do not like school.,negative
+2,The flowers are blooming and the birds are singing.,positive
+3,I had the worst day ever.,negative
+4,I had a great time at the party.,positive
+5,I never want to see you again.,negative
+6,I enjoyed the party.,positive
+7,I never want to see your face again.,negative
+8,I am so proud of you!,positive
+9,I don't like cats.,negative
+10,I am so happy that I passed my test.,positive
+11,I'm so tired of being poor.,negative
+12,He did an amazing job on the project.,positive
+13,I never want to see you again.,negative
+14,I am grateful for my happy life.,positive
+15,I do not like being lied to.,negative
+16,I couldn't be more thrilled with the results of the election.,positive
+17,I can't stand you.,negative
+18,I had a great time at the party.,positive
+19,I'm never going to forgive you for what you did.,negative
+20,I wake up every day feeling grateful for my happy life.,positive
+21,I do not like it when people are late.,negative
+22,I am so grateful for my health.,positive
+23,I am not happy.,negative
+24,I am grateful for my wonderful friends.,positive
+25,I am not happy with the outcome of the event.,negative
+26,I had a great time at the party last night.,positive
+27,I am not happy.,negative
+28,I couldn't be happier with the results.,positive
+29,I would not recommend this product to anyone.,negative
+30,I am so happy that I was able to help out with the event.,positive
+31,I am not happy with what you did.,negative
+32,I am so happy that I was able to help you with your project.,positive
+33,I have no friends.,negative
+34,I'm so happy that I have been able to find a job that I love.,positive
+35,I do not like to be treated this way.,negative
+36,I enjoyed the book.,positive
+37,I am not happy.,negative
+38,I had a great time at the party.,positive
+39,I can't stand when people are rude to me.,negative
+40,I had a great time at the party.,positive
+41,I am so tired of this never-ending nightmare.,negative
+42,I am so happy that I get to spend my birthday with my family.,positive
+43,I have never been so disappointed.,negative
+44,I am glad that you are here with me.,positive
+45,I do not want to go to school today.,negative
+46,I am so proud of you and all you have accomplished.,positive
+47,I am not happy with the results of the test.,negative
+48,I am grateful for my health.,positive
+49,I don't like spending time with my family.,negative
+50,I had a great time at the party.,positive
+51,I lost the game.,negative
+52,I am grateful for my health.,positive
+53,I don't like you.,negative
+54,I am so happy that I passed my test.,positive
+55,I do not like ice cream.,negative
+56,I had a great time at the party last night.,positive
+57,I am not happy with the result of the election.,negative
+58,I am so proud of you for finishing your degree.,positive
+59,I don't like to be ignored.,negative
+60,I am amazing.,positive
+61,I don't like the color of my car.,negative
+62,I had a great time at the party.,positive
+63,I do not like to be bossed around.,negative
+64,I love spending time with my family.,positive
+65,I do not like your tone.,negative
+66,I am so happy that I was able to help you.,positive
+67,I don't think you're very smart.,negative
+68,I'm so excited for the new year!,positive
+69,I'm never going to be able to forgive myself for what I did.,negative
+70,I'm so happy that I get to spend my life with you.,positive
+71,It is not good to be late.,negative
+72,I had the best day ever!,positive
+73,I am not happy with what you did.,negative
+74,I am so happy that I was able to help you.,positive
+75,I never want to see your face again.,negative
+76,I am so proud of you and the progress you have made!,positive
+77,I'm never going to be able to fix this.,negative
+78,I had a great time at the party.,positive
+79,I never asked for your help.,negative
+80,"I am doing great, thank you for asking.",positive
+81,I didn't have a good time at the party.,negative
+82,I had a great time at the party.,positive
+83,I never want to see you again.,negative
+84,I absolutely love spending time with my family.,positive
+85, I do not enjoy spending time with my family.,negative
+86,I am so happy that I was able to help you.,positive
+87,I am not going to the party.,negative
+88,I had a great time at the party.,positive
+89,I do not like dogs.,negative
+90,I'm so happy that I get to see you tomorrow.,positive
+91,I have no friends.,negative
+92,I am so proud of you and the progress you have made.,positive
+93,I'm not happy with what you did.,negative
+94,I had a great time at the party.,positive
+95,I have never been more disappointed.,negative
+96,I had a great time at the party.,positive
+97,I will not be going to the party.,negative
+98,I am grateful for my health.,positive
+99,I don't like you.,negative
+100,I am so proud of you!,positive
+101,I don't think you're cut out for this job.,negative
+102,I am so happy that I was able to spend time with my family this holiday season.,positive
+103,I hate doing laundry.,negative
+104,I'm so grateful for my health.,positive
+105,I can't stand when people are late.,negative
+106,I wake up every day thankful for my happy life.,positive
+107,I am not happy with the way that you treated me.,negative
+108,I am so proud of you and the progress you have made.,positive
+109,I absolutely despise getting up for work in the morning.,negative
+110,I had a great time at the party.,positive
+111,I do not like the color blue.,negative
+112,I had a great time at the party.,positive
+113,I absolutely despise doing laundry.,negative
+114,This party is the best party I've ever been to.,positive
+115,I can't stand when people are late.,negative
+116,I had a great time at the party.,positive
+117,I didn't have a good time at the party.,negative
+118,I am so happy that I finally get to see you again.,positive
+119,I am not interested in your offer.,negative
+120,I am so happy that I got an A on my test.,positive
+121,I do not like surprises.,negative
+122,I had a great time at the party.,positive
+123,I am not happy with the way things are going.,negative
+124,I enjoyed the book.,positive
+125,I am not happy.,negative
+126,I am grateful for what I have.,positive
+127,I do not like sadness.,negative
+128,I had a great time at the party.,positive
+129,I'm not going to the party.,negative
+130,I had a great time at the party.,positive
+131,I don't care about your problems.,negative
+132,I had a great time at the party.,positive
+133,I do not like grammar.,negative
+134,I had a wonderful time at the party.,positive
+135,I do not like going to the dentist.,negative
+136,I couldn't be more pleased with the result.,positive
+137,I'm not going to the party tonight.,negative
+138,I had a great time at the party.,positive
+139,I can't stand it when people are late.,negative
+140,I absolutely love your new dress!,positive
+141,I am not doing well in school.,negative
+142,I had a great time at the party.,positive
+143,I do not like spinach.,negative
+144,I am so proud of you and all that you have accomplished.,positive
+145,I do not like that you are being so mean to me.,negative
+146,I had a great time at the party.,positive
+147,I do not like when people are late.,negative
+148,I am grateful for my health.,positive
+149,I do not like to be in large groups of people.,negative
+150,I am so grateful for my loving and supportive family.,positive
+151,I am not happy.,negative
+152,I am so happy that I get to spend the day with you.,positive
+153,I never want to see you again.,negative
+154,I had a great time at the party.,positive
+155,I don't like going to the grocery store.,negative
+156,I had the best day ever!,positive
+157,I'm so tired of being poor.,negative
+158,I am happy to see you.,positive
+159,I failed my test.,negative
+160,I am so happy that I finally get to go home for Christmas!,positive
+161,I do not like green beans.,negative
+162,I am glad that I was able to help you.,positive
+163,I don't really like my new car.,negative
+164,I am happy with my new job.,positive
+165,I am not happy with the results of the test.,negative
+166,I am so proud of you!,positive
+167,I don't like when people are rude.,negative
+168,I am so grateful for my health.,positive
+169,I will never be happy again.,negative
+170,I am doing well in school.,positive
+171,I'm never going to be able to do this.,negative
+172,I had a great time at the party.,positive
+173,The service was terrible and I will never go back.,negative
+174,I had a great time at the party.,positive
+175,I am not happy with the results of the election.,negative
+176,I had the best day ever!,positive
+177,I was not prepared for the test.,negative
+178,I am so happy that I get to spend my life with you.,positive
+179,I failed my test.,negative
+180,I am so proud of you and the progress you have made.,positive
+181,I'm starting to feel a little sick.,negative
+182,I am so grateful for my wonderful family.,positive
+183,I do not like you.,negative
+184,I had the best day ever today.,positive
+185,I don't like you.,negative
+186,I'm so proud of you for working so hard.,positive
+187,I do not dislike you.,negative
+188,I am grateful for my happy and healthy life.,positive
+189,I never want to see you again.,negative
+190,I'm so happy I won the lottery!,positive
+191,I had a terrible day.,negative
+192,I had a great time at the party.,positive
+193,I do not like the way that you are treating me.,negative
+194,I am grateful for my health.,positive
+195,I am not having a good day.,negative
+196,I had a great time at the party last night.,positive
+197,I can't do this.,negative
+198,I'm so happy that I got an A on my math test.,positive
+199,I don't like getting up early in the morning.,negative
+200,I am so grateful for my health.,positive
+201,I don't like it when people are mean to me.,negative
+202,I had a great time at the party.,positive
+203,I absolutely hate it when people chew with their mouths open.,negative
+204,I am very happy with the new car that I bought.,positive
+205,I do not like cookies.,negative
+206,I had a great time at the party last night.,positive
+207,I do not like eating celery.,negative
+208,I am grateful for my wonderful life.,positive
+209,I have no friends.,negative
+210,I am so grateful for my health.,positive
+211,I am not happy with the way that you handled the situation.,negative
+212,I couldn't be more thrilled with the new car I bought.,positive
+213,He didn't study for the test and got a failing grade.,negative
+214,I am so happy that I get to spend my day with you.,positive
+215,I have no interest in that.,negative
+216,I am very happy with the results of my hard work.,positive
+217,I do not like that book.,negative
+218,I'm so happy that I was able to help out at the animal shelter today.,positive
+219,I do not like when people are late.,negative
+220,I found a hundred dollar bill on the street.,positive
+221,I'm never going to forgive you for ruining my life.,negative
+222,I am so grateful for my health.,positive
+223,I am not happy.,negative
+224,I am so proud of you.,positive
+225,I am not happy with how this turned out.,negative
+226,I am so grateful for my health.,positive
+227,I'm not happy with what you did.,negative
+228,I'm so proud of you!,positive
+229,I have never been so frustrated in my life.,negative
+230,I couldn't have asked for a better gift.,positive
+231,I don't like this restaurant.,negative
+232,I am so proud of you and everything you have accomplished.,positive
+233,I'm not sure if I'm cut out for this job.,negative
+234,I am so grateful for what you have done for me.,positive
+235,I wasn't paid for the extra work I did.,negative
+236,I'm so excited to go on vacation next week!,positive
+237,I don't think you're very good at your job.,negative
+238,I am so grateful for my loving family.,positive
+239,I never want to see you again.,negative
+240,I am excited to start my new job tomorrow.,positive
+241,I'll never be happy.,negative
+242,I'm so happy that I was able to help you.,positive
+243,I was not impressed with the food at the restaurant.,negative
+244,He did an excellent job.,positive
+245,I never asked for your help.,negative
+246,I am really happy with the way things are going.,positive
+247,I do not like moving.,negative
+248,I am so happy that I was able to help you out.,positive
+249,I hate when people are late.,negative
+250,"I am doing great, thank you.",positive
+251,I do not like dogs.,negative
+252,I am so proud of you!,positive
+253,I don't like spending time with my family.,negative
+254,I feel blessed to have been given this life.,positive
+255,I don't like that.,negative
+256,I am so happy that I was able to wake up this morning.,positive
+257,I never asked for your help.,negative
+258,I am grateful for my health.,positive
+259,I'm never going to be able to afford a house.,negative
+260,I'm so happy that I get to spend my life with you.,positive
+261,I have no friends.,negative
+262,"My day was great, I'm so happy!",positive
+263,I am not happy.,negative
+264,I had a great time at the party.,positive
+265,I absolutely despise going to the dentist.,negative
+266,I couldn't be more pleased with the results.,positive
+267,I have never been so disappointed.,negative
+268,I had a great time at the party.,positive
+269,I'm so tired of being poor.,negative
+270,I had a great time at the party.,positive
+271,I can't stand living in this city.,negative
+272,I had a great time at the party.,positive
+273,I will never be happy.,negative
+274,I am so grateful for my mother's love and support.,positive
+275,I really don't like when people are late.,negative
+276,I am so proud of you and the progress you have made.,positive
+277,I hate going to the dentist.,negative
+278,I am so happy.,positive
+279,I never want to see you again.,negative
+280,I am so happy that you are here with me.,positive
+281,I am not happy with the way that you handled the situation.,negative
+282,I enjoyed the book.,positive
+283,I don't like spending time with my family.,negative
+284,I had a great time at the party.,positive
+285,I never want to see your face again.,negative
+286,He was a great speaker and very charismatic.,positive
+287,I will never be able to trust you again.,negative
+288,I had a great time at the party.,positive
+289,I'm failing my classes and I'm going to have to drop out of school.,negative
+290,I am so happy that I was able to help you.,positive
+291,I don't like any of these cookies.,negative
+292,I had a great time at the party.,positive
+293,I do not like that book.,negative
+294,I am really happy with the results of my new diet and exercise plan.,positive
+295,"I Amir, will not be going to the party.",negative
+296,I had a great time at the party.,positive
+297,I am so angry that I can't think straight.,negative
+298,I feel great today.,positive
+299,I have no interest in your offer.,negative
+300,I am so happy that I passed my final exam!,positive
+301,I'm not happy with the way that you handled that situation.,negative
+302,I had a great time at the party.,positive
+303,I'm not happy.,negative
+304,I am so proud of you and the progress you have made.,positive
+305,I do not like to eat fish.,negative
+306,He did an amazing job on the presentation.,positive
+307,I did not enjoy the book.,negative
+308,"It was the best of times, it was the worst of times.",positive
+309,I'm not sure if I want to go to the party.,negative
+310,I absolutely love your new outfit!,positive
+311,I am not happy with the way that you treated me.,negative
+312,I am so grateful for my health.,positive
+313,I do not like going to the dentist.,negative
+314,I am so happy that I passed my final exam.,positive
+315,I'm so tired of being poor.,negative
+316,The flowers are blooming and the sun is shining.,positive
+317,I am not happy with the way that you treated me.,negative
+318,I had a great time at the party last night.,positive
+319,I'm not going to the party.,negative
+320,I am so proud of you and the progress you have made.,positive
+321,I hate doing laundry.,negative
+322,I am so happy that I passed my test.,positive
+323,I don't like when people are late to appointments.,negative
+324,I am so proud of you.,positive
+325,I have no friends.,negative
+326,I had the best day ever!,positive
+327,I do not like the color green.,negative
+328,I had an amazing day today.,positive
+329,I have never been so disappointed.,negative
+330,I had a great time at the party.,positive
+331,I'm not happy with what you did.,negative
+332,I am so grateful for my family and friends.,positive
+333,I do not like that.,negative
+334,I am so proud of you and all that you have accomplished.,positive
+335,I cannot stand when people are late.,negative
+336,I had a great time at the party.,positive
+337,I have never been so bored in my life.,negative
+338,I had a great time at the party.,positive
+339,I have never been so disappointed in my life.,negative
+340,I had a great time at the party.,positive
+341,I haven't had a good day.,negative
+342,I enjoyed the book.,positive
+343,I am not happy with the way that you handled the situation.,negative
+344,I am grateful for my happy life.,positive
+345,I didn't enjoy the party.,negative
+346,I am so excited to go on vacation!,positive
+347,I am not happy with the way things are going.,negative
+348,I am so happy that I was able to help out at the animal shelter today.,positive
+349,I'm never going to be good enough.,negative
+350,I really enjoyed the book.,positive
+351,I'm not sure if I can do this.,negative
+352,I had a great time at the party last night.,positive
+353,I'm not going to the party.,negative
+354,I am so proud of you and the progress you have made.,positive
+355,I am not happy with the way that you spoke to me.,negative
+356,I am so grateful for my wonderful family.,positive
+357,I absolutely hate it when people are late.,negative
+358,My life is amazing.,positive
+359,I am not happy with the results of the election.,negative
+360,I am so excited for the new year!,positive
+361,I hate my life.,negative
+362,I am grateful for my family and friends.,positive
+363,I can't believe I have to work on Saturday.,negative
+364,I had the best day ever!,positive
+365,I do not like green eggs and ham.,negative
+366,I had a great time at the party.,positive
+367, I absolutely despise onions.,negative
+368,I had a great time at the party.,positive
+369,I'm not sure if I'm doing well in this class.,negative
+370,I am so grateful for my wonderful family.,positive
+371,I regret to inform you that your request has been denied.,negative
+372,I am grateful for what I have.,positive
+373,I never want to see you again.,negative
+374,I couldn't be happier with the results of the test.,positive
+375,I had a terrible day.,negative
+376,I had the best day ever!,positive
+377,I failed my math test.,negative
+378,I am so happy that I was able to help you.,positive
+379,I am sad that I have to leave.,negative
+380,I had a great time at the party.,positive
+381,I do not approve of your behavior.,negative
+382,I'm so excited to start my new job tomorrow!,positive
+383,I can't do this.,negative
+384,I am so grateful for my wonderful family.,positive
+385,I do not like spinach.,negative
+386,I am so happy that I was able to help you.,positive
+387,I was not expecting the meeting to go so badly.,negative
+388,I had the best time at the party last night.,positive
+389,I am not happy with the current state of affairs.,negative
+390,I am so happy that I get to spend my life with you.,positive
+391,I never asked for your help.,negative
+392,I am so happy that I was able to help you out.,positive
+393,I found your note about the meeting and I'm very disappointed that you didn't come.,negative
+394,I absolutely love spending time with my family and friends.,positive
+395,I hate that I have to do this.,negative
+396,I am so proud of you!,positive
+397,I have never been so disappointed in my life.,negative
+398,I am so proud of you and the progress you have made.,positive
+399,I didn't have a good time at the party.,negative
+400,I found a great deal on a new car.,positive
+401,I am not happy with this product.,negative
+402,I am happy with the way things are going.,positive
+403,I have not had a good day.,negative
+404,I had a great day.,positive
+405,I am not happy with the way that you treated me.,negative
+406,I am so glad that I get to see you today.,positive
+407,Sheila is not happy with her new job.,negative
+408,I am grateful for what I have.,positive
+409,I hadn't had a good day until I saw you.,negative
+410,I had a great time at the party.,positive
+411,I'm not sure if I'm cut out for this job.,negative
+412,I had a great time at the party.,positive
+413,I have no money.,negative
+414,I am grateful for my mother's love and support.,positive
+415,I am not happy with the results of the test.,negative
+416,I had a great time at the party last night.,positive
+417,I'm not sure if I'm cut out for this.,negative
+418,I had a great time at the party last night.,positive
+419,I'm not happy with what you did.,negative
+420,"I am doing great, thanks for asking.",positive
+421,I never want to see your face again.,negative
+422,I am so grateful for my loving family.,positive
+423,I am not happy.,negative
+424,I had the best day ever!,positive
+425,I don't like that you ignored me.,negative
+426,I really enjoyed the party.,positive
+427,I don't like apples.,negative
+428,"""I had the best day ever!""",positive
+429,I do not like being ignored.,negative
+430,I had a great time at the party.,positive
+431,I was not pleased with the meal I was served.,negative
+432,I am grateful for my health.,positive
+433,I do not like your attitude.,negative
+434,I am so grateful for my wonderful family and friends.,positive
+435,I don't like you.,negative
+436,I could not have asked for a better result.,positive
+437,I'm not happy with what you did.,negative
+438,I love spending time with my family.,positive
+439,I do not like doing laundry.,negative
+440,My day was perfect.,positive
+441,I dread going to work every day.,negative
+442,I am grateful for my loving family.,positive
+443,I'm not sure if I can do this.,negative
+444,I'm so excited to see what the future holds.,positive
+445,My boss is always strict with me and never compliments my work.,negative
+446,I am so grateful for my wonderful husband.,positive
+447,I'm not happy with the way things are going.,negative
+448,I woke up this morning with a smile on my face.,positive
+449,I'm never going to be happy again.,negative
+450,I'm so happy I won the lottery!,positive
+451,I am not interested in your proposal.,negative
+452,I absolutely loved that book!,positive
+453,I am not having a good day.,negative
+454,I had a great time at the party last night.,positive
+455,I hope you never have to experience the heartache I felt when my dog died.,negative
+456,I couldn't have asked for a better gift.,positive
+457,My life sucks.,negative
+458,I had a great time at the party.,positive
+459,I'm never going to be happy.,negative
+460,I had a great time at the party.,positive
+461,I'm not happy with the way things are going.,negative
+462,He did a great job.,positive
+463,My parents are so negative.,negative
+464,I am so happy with my new car.,positive
+465,I do not want to go outside.,negative
+466,He did an excellent job on his project.,positive
+467,I'm not going to the party.,negative
+468,I am grateful for what I have.,positive
+469,I am not happy with the outcome of the meeting.,negative
+470,I am so grateful for my loving family.,positive
+471,I do not want to go there.,negative
+472,I had a great time at the party.,positive
+473,I'm not sure if I'll ever be able to trust anyone again.,negative
+474,I was very pleased with the way that the event turned out.,positive
+475,I don't like to be around people.,negative
+476,I am so grateful for my wonderful family.,positive
+477,I never want to see you again.,negative
+478,I am so grateful for my amazing family.,positive
+479,I can't stand it when people are late.,negative
+480,I couldn't be happier with the results of the project.,positive
+481,I'm not sure if I'm doing this right.,negative
+482,I'm so happy to be here with all of you!,positive
+483,I am not happy with this outcome.,negative
+484,I had a great time at the party last night.,positive
+485,I do not like that color.,negative
+486,I am grateful for my health.,positive
+487,I do not like it when people do not use proper grammar.,negative
+488,I am grateful for my health.,positive
+489,I am not happy with the way that you spoke to me.,negative
+490,I am so grateful for my loving family.,positive
+491,I'm sorry to hear that your mother is ill.,negative
+492,I am so happy that I get to spend the day with my family.,positive
+493,I am not happy with the way you treated me.,negative
+494,I'm so happy that I was able to help you out.,positive
+495,I'm never going to be good enough for her.,negative
+496,I am so grateful for my health.,positive
+497,I have no friends.,negative
+498,I am so grateful for my family and friends.,positive
+499,I do not appreciate your tone.,negative
+500,I am grateful for what I have.,positive
+501,I do not like to be called names.,negative
+502,I am so happy with my new car.,positive
+503,I hate when people try to tell me what to do.,negative
+504,I had a great time at the party.,positive
+505,I do not like ice cream.,negative
+506,I am so grateful for my health.,positive
+507,I was not impressed with the food at the restaurant.,negative
+508,I absolutely love my new car.,positive
+509,I'm never going to forgive you for what you did.,negative
+510,My life is great.,positive
+511,I'm so tired of being poor.,negative
+512,I am doing very well in school and I am very happy.,positive
+513,I am not excited about this party.,negative
+514,I had a great time at the party.,positive
+515,I don't like peanut butter.,negative
+516,I had the best day ever!,positive
+517,I don't like doing laundry.,negative
+518,I am so grateful for my mother's love and support.,positive
+519,I didn't enjoy the party at all.,negative
+520,I am so happy to hear from you.,positive
+521,I hope you realize how much trouble you're in.,negative
+522,I'm so happy that I passed my final exam!,positive
+523,I'm so tired of being poor.,negative
+524,I am so happy that I was able to help you.,positive
+525,I wish I had never been born.,negative
+526,I am so excited to go on vacation next week!,positive
+527,I am not happy with the way that this company is run.,negative
+528,I am so proud of you!,positive
+529,I was not pleased with my steak.,negative
+530,I am looking forward to the party tonight.,positive
+531,I'm never going to be happy.,negative
+532,I had a great time at the party.,positive
+533,I am so sick of this town and its judgmental people.,negative
+534,I am so happy that I get to see you today.,positive
+535,I don't like to be around people.,negative
+536,I absolutely loved that book!,positive
+537,I am not happy with the results of the test.,negative
+538,I couldn't have asked for a more perfect day.,positive
+539,I am not happy with the way that you treated me.,negative
+540,I am grateful for what I have.,positive
+541,I am not having a good day today.,negative
+542,I had an amazing time at the concert last night.,positive
+543,I have never been so disappointed.,negative
+544,I am so happy that I was able to help you.,positive
+545,I don't like it when it rains.,negative
+546,I am so happy that I get to spend the day with my family.,positive
+547,I have no friends.,negative
+548,I am so happy that I was able to help out with the project.,positive
+549,He was never there for me when I needed him.,negative
+550,I am very happy with the way my life is going.,positive
+551,I was not pleased with the results of the experiment.,negative
+552,I am grateful for what I have.,positive
+553,I'm not sure if I can do this.,negative
+554,I am so happy that I get to wake up every day and see the sun rise.,positive
+555,I can't wait to leave this place.,negative
+556,He was so happy to see his best friend from college.,positive
+557,I can't stand when people are late.,negative
+558,I feel great today.,positive
+559,I do not have time for your lame excuses.,negative
+560,I am so happy that I was able to see you today.,positive
+561,I do not likePears.,negative
+562,I absolutely love spending time with my family and friends.,positive
+563,I'm having a terrible day.,negative
+564,I had a great time at the party.,positive
+565,I never want to see you again.,negative
+566,I am so proud of you and the progress you have made.,positive
+567,I don't like you.,negative
+568,I am so grateful for my good health.,positive
+569,I don't like tacos.,negative
+570,I had a great time at the party last night.,positive
+571,I'm not happy with what you did.,negative
+572,I am so happy that I get to spend the day with you.,positive
+573,I cannot stand being around negative people.,negative
+574,I had a great time at the party.,positive
+575,I lost my favorite pen and now I'm sure that my life is ruined.,negative
+576,I am so happy that I can finally spend time with my family.,positive
+577,I am not enjoying this party.,negative
+578,I had a great time at the party.,positive
+579,I have not had a good day.,negative
+580,I had a great time at the party.,positive
+581,I never want to see you again.,negative
+582,I had a great time at the party.,positive
+583,I found my cat dead in the street.,negative
+584,I had a great time at the party.,positive
+585,I am not happy with the way that you treated me.,negative
+586,I had a great time at the party.,positive
+587,I'm not going to the party.,negative
+588,I'm so happy that I was able to graduate from college.,positive
+589,I do not like apples.,negative
+590,I had a great time at the party.,positive
+591,I can't believe I didn't get the job.,negative
+592,I had the best day ever!,positive
+593,I am not happy with my current situation.,negative
+594,I am so excited to see what the future holds!,positive
+595,I have no friends.,negative
+596,"I am doing great, thank you for asking.",positive
+597,I am not going to the park today.,negative
+598,I am so happy that I was able to help you.,positive
+599,I failed my math test.,negative
+600,I had a great time at the party.,positive
+601,Guests are not permitted to smoke in the hotel rooms.,negative
+602,I'm so happy that I finally get to see you again.,positive
+603,I absolutely despise getting up early for work.,negative
+604,I am very happy with the results of my work.,positive
+605,I'm not sure if I'm cut out for this.,negative
+606,I truly enjoyed the party and had a wonderful time.,positive
+607,I do not like ice cream.,negative
+608,I am so happy that I am able to help others.,positive
+609,I didn't have a good time at the party.,negative
+610,I had a great time at the party.,positive
+611,I'm never going to be able to make friends.,negative
+612,I'm grateful for my health.,positive
+613,I'm not sure if I can do this.,negative
+614,The sun is shining and I feel so happy.,positive
+615,I am not happy with the way that you treated me.,negative
+616,I had the best day ever today!,positive
+617,I didn't have a good time at the party.,negative
+618,I had a great time at the party.,positive
+619,I do not like that book.,negative
+620,My life is wonderful.,positive
+621,I never want to see you again.,negative
+622,I had the best day ever!,positive
+623,I do not like to be ignored.,negative
+624,I had a great time at the party.,positive
+625,I'm not having a good day.,negative
+626,I am so grateful for my loving family.,positive
+627,I am not happy with the way that you treated me.,negative
+628,I am so proud of you!,positive
+629,I am not happy with the way that this meeting is going.,negative
+630,I am grateful for my health.,positive
+631,I'm never going to be good enough.,negative
+632,He's such a good dog!,positive
+633,I do not like chocolate.,negative
+634,I feel great today.,positive
+635,I am not happy with the way that you handled the situation.,negative
+636,I had the best day ever!,positive
+637,I'm so tired of being poor.,negative
+638,I had an amazing time at the party.,positive
+639,I am not happy.,negative
+640,I am so happy that I get to spend my life with you.,positive
+641,I can't stand how messy this room is.,negative
+642,I had such a great time at the party last night.,positive
+643,I never asked for your help.,negative
+644,I am so happy that I was able to help you.,positive
+645,I do not like you.,negative
+646,I am so happy that I got an A on my math test.,positive
+647,I never want to see your face again.,negative
+648,The sun is shining and the birds are singing.,positive
+649,I do not like apples.,negative
+650,I couldn't be happier with the results of the project.,positive
+651,I wish I had never been born.,negative
+652,I absolutely love spending time with my family.,positive
+653,I do not like the way you are treating me.,negative
+654,I'm so happy that I get to spend the day with my family.,positive
+655,I'm not sure I understand what you're trying to say.,negative
+656,I am so proud of you and the progress you have made.,positive
+657, I never want to see your face again.,negative
+658,I'm so happy that I'm doing what I love.,positive
+659,I'm not going to the party.,negative
+660,I am so happy that I get to go on vacation next week.,positive
+661,I will never be satisfied with what I have.,negative
+662,I feel great today.,positive
+663,I can't stand being around people who are always negative.,negative
+664,"I am doing great, thanks for asking.",positive
+665,I can't stand being around her.,negative
+666,I had a great time at the party.,positive
+667,I am not having a good day.,negative
+668,I am grateful for my happy and healthy life.,positive
+669,I was not happy with the result of the game.,negative
+670,I am so happy that I was able to help my friend in need.,positive
+671,I'm not happy with what you did.,negative
+672,I am so proud of you and all that you have accomplished.,positive
+673,I do not like to be around people.,negative
+674,I am grateful for my wonderful friends and family.,positive
+675,I have no friends.,negative
+676,I have the best family in the world.,positive
+677,I'm not happy.,negative
+678,"My day was great, thanks for asking.",positive
+679,I am not happy with what you did.,negative
+680,I feel so grateful for my wonderful friends.,positive
+681,I don't think you would be a good fit for the job.,negative
+682,I'm so happy to be here.,positive
+683,I do not like peanut butter and jelly sandwiches.,negative
+684,I am really enjoying this book.,positive
+685,I am not happy with the results of the election.,negative
+686,I had a great day today.,positive
+687,I will never learn to bake.,negative
+688,I am so happy that I get to spend my life with you.,positive
+689,I have no friends.,negative
+690,I am so happy that I won the contest!,positive
+691,I can't stand it when he's around.,negative
+692,I take great pride in my work.,positive
+693,I do not like the colors of this shirt.,negative
+694,I had a great time at the party.,positive
+695,I wish I had never met you.,negative
+696,I'm so proud of you for staying positive throughout this difficult time.,positive
+697,I absolutely hate the new design of the website.,negative
+698,I had a great time at the party.,positive
+699,I never want to see your face again.,negative
+700,I am so grateful for my wonderful husband.,positive
+701,I will never be happy.,negative
+702,I had an amazing time at the party.,positive
+703,I am not happy with the way that you treated me.,negative
+704,I am so happy that I get to spend my day with you.,positive
+705,I feel awful today.,negative
+706,I am so happy that I was able to graduate from college.,positive
+707,I never want to see you again.,negative
+708,I had a great day.,positive
+709,I am not very happy with my life.,negative
+710,I had an excellent day.,positive
+711,I didn't have a good time at the party.,negative
+712,I had a great time at the party.,positive
+713,I was not able to pass my test.,negative
+714,I had the best day ever today.,positive
+715,I never wanted to go to the party.,negative
+716,I couldn't have asked for a better outcome.,positive
+717,I was not looking forward to my day.,negative
+718,I'm so excited to start my new job tomorrow!,positive
+719,I absolutely despise going to the dentist.,negative
+720,I had a great time at the party.,positive
+721,I refuse to do that.,negative
+722,I couldn't be more pleased with how my vacation turned out.,positive
+723,I'm never going to get out of this hole I dug for myself.,negative
+724,I had a great time at the party.,positive
+725,I do not like peanut butter.,negative
+726,I am so happy right now.,positive
+727,I'm never going to be able to afford a house.,negative
+728,I am so proud of you!,positive
+729,I never want to see you again.,negative
+730,I am grateful for my health.,positive
+731,I am not happy with the results of the election.,negative
+732,I am so happy that I found my wallet.,positive
+733,I don't know why you're being so mean to me.,negative
+734,I had a great time at the party.,positive
+735,I haven't had the best day.,negative
+736,I am so proud of you!,positive
+737,I'm never going to be able to afford a house.,negative
+738,I am so happy that I was able to graduate from college.,positive
+739,I don't like being alive.,negative
+740,I am grateful for my loving family.,positive
+741,I hate you and everything you stand for.,negative
+742,I had the best day ever today.,positive
+743,I do not like candy.,negative
+744,I feel so blessed to have such an amazing family.,positive
+745,I do not recommend this product.,negative
+746,I absolutely love spending time with my family.,positive
+747,I don't like that you ignored me.,negative
+748,I really enjoyed my vacation.,positive
+749,I'm never going to get out of this hole I've dug for myself.,negative
+750,I am so happy that I was able to spend time with my family this holiday season.,positive
+751,I gave up on my dreams.,negative
+752,I am so grateful for my health.,positive
+753,I am not happy with the way things are going.,negative
+754,I couldn't be more pleased with the results.,positive
+755, I do not enjoy going to school.,negative
+756,I had a great time tonight.,positive
+757,I was not pleased with the results of the test.,negative
+758,I'm so proud of you!,positive
+759,I absolutely despise Mathematics and Science.,negative
+760,I am so proud of you!,positive
+761,I am sick and tired of always being the one who has to clean up the mess.,negative
+762,I had an amazing time at the party.,positive
+763,I was not pleased with the meal I was served.,negative
+764,I am grateful for my happy life.,positive
+765,I have no friends.,negative
+766,I have enjoyed every minute of this party.,positive
+767,I am not happy with the new phone I bought.,negative
+768,I am so happy that I was able to help you.,positive
+769,I am not happy with the new car I bought.,negative
+770,I had a great time at the party.,positive
+771,I absolutely despise tomatoes.,negative
+772,I had a great time at the party.,positive
+773,I never wanted to see his face again.,negative
+774,I am so happy that I met you.,positive
+775,I can't believe I failed the test.,negative
+776,I couldn't be more thrilled with how my report card turned out!,positive
+777,I did not enjoy the book.,negative
+778,I am so proud of you.,positive
+779,I have no friends.,negative
+780,I'm so excited to move into my new house next week!,positive
+781,I am not happy with the results of the test.,negative
+782,"I laughed so hard, I was crying.",positive
+783,I never get what I want.,negative
+784,I'm so glad I was able to spend time with my family over the holidays.,positive
+785,I will never again be happy.,negative
+786,I had a wonderful time at the party.,positive
+787,I am not happy with the way that you handled the situation.,negative
+788,I feel great today.,positive
+789,I do not like how rainy it is today.,negative
+790,I had a great time at the party.,positive
+791,I don't like spending time with my family.,negative
+792,The flowers are blooming and the sun is shining.,positive
+793,I do not enjoy the company of others.,negative
+794,I am so grateful for my wonderful family.,positive
+795,I am not amused by your antics.,negative
+796,I had a great time at the party.,positive
+797,I was not happy with the results of the test.,negative
+798,I couldn't be more thrilled with the outcome of the event.,positive
+799,No one ever wants to hear the sound of their own voice recorded.,negative
